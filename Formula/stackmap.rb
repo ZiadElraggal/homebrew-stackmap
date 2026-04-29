@@ -1,9 +1,9 @@
 class Stackmap < Formula
   desc "Architecture diagrams that generate themselves from infrastructure code"
   homepage "https://github.com/ZiadElraggal/stackmap"
-  url "https://github.com/ZiadElraggal/stackmap/releases/download/v0.3/stackmap-0.3-source.tar.gz"
-  version "0.3"
-  sha256 "78d81a7aa9636a5ceb87dab5026283f8b6211d023b0052ad69390d37b9169a0e"
+  url "https://github.com/ZiadElraggal/stackmap/releases/download/v0.4.0/stackmap-0.4.0-source.tar.gz"
+  version "0.4.0"
+  sha256 "0057546ea33c07e62d9ba08975bc612dc98180e0357b35d42930c3b7dc57f408"
   license "MIT"
 
   depends_on "python@3.12"
